@@ -214,6 +214,10 @@
     width: 6em
     }
 
+    .line {
+    border-bottom: 1px solid #ffffff;
+    }
+
     @media (max-width:920px) {
     .container .section_left {
     width:100%;
