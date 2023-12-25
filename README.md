@@ -1,1 +1,1 @@
-hi, my name is Anton this is my first CV
+Hi, my name is Anton. This is my first CV ;)
